@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10152b"/><stop offset="1" stop-color="#0a0e1d"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a66cff"/><stop offset="1" stop-color="#5ee7df"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="700" rx="30" fill="url(#bg)"/>
+<circle cx="1000" cy="80" r="210" fill="#8b5cf6" opacity=".10"/><circle cx="140" cy="610" r="180" fill="#38d8c8" opacity=".07"/>
+<rect x="42" y="38" width="1116" height="624" rx="24" fill="#ffffff" opacity=".035" stroke="#ffffff" stroke-opacity=".12"/>
+<g font-family="Arial, sans-serif">
+ <text x="82" y="91" fill="#fff" font-size="20" font-weight="700">Gather &amp; Co.</text>
+ <text x="760" y="91" fill="#a8afc3" font-size="13">Collections</text><text x="850" y="91" fill="#a8afc3" font-size="13">Packages</text><text x="930" y="91" fill="#a8afc3" font-size="13">How it works</text>
+ <rect x="1038" y="64" width="84" height="34" rx="17" fill="url(#accent)"/><text x="1057" y="86" fill="#07101a" font-size="12" font-weight="700">Book now</text>
+ <text x="82" y="181" fill="#8f78ff" font-size="12" font-weight="700" letter-spacing="2">EVENT RENTALS • MADE SIMPLE</text>
+ <text x="82" y="228" fill="#fff" font-size="44" font-weight="700">Set the scene.</text>
+ <text x="82" y="272" fill="#fff" font-size="44" font-weight="700">Make it memorable.</text>
+ <text x="82" y="310" fill="#9ca5bb" font-size="15">Furniture, lighting and styling pieces for celebrations</text>
+ <text x="82" y="333" fill="#9ca5bb" font-size="15">that feel considered from setup to final guest.</text>
+ <rect x="82" y="360" width="136" height="42" rx="21" fill="url(#accent)"/><text x="110" y="386" fill="#07101a" font-size="12" font-weight="700">Explore rentals →</text>
+ <rect x="235" y="360" width="122" height="42" rx="21" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="261" y="386" fill="#dce2ef" font-size="12">View packages</text>
+ <rect x="620" y="142" width="475" height="398" rx="28" fill="#151b32" stroke="#fff" stroke-opacity=".10" filter="url(#shadow)"/>
+ <rect x="646" y="168" width="423" height="218" rx="22" fill="#202943"/>
+ <rect x="670" y="191" width="150" height="155" rx="18" fill="#2e3651"/><circle cx="745" cy="235" r="34" fill="#a66cff" opacity=".55"/><rect x="690" y="280" width="112" height="38" rx="12" fill="#f0c99a" opacity=".8"/>
+ <rect x="838" y="191" width="207" height="72" rx="16" fill="#29324d"/><text x="860" y="219" fill="#fff" font-size="13" font-weight="700">Signature table set</text><text x="860" y="242" fill="#929bb0" font-size="11">12 pieces • from ₦45k</text>
+ <rect x="838" y="278" width="207" height="68" rx="16" fill="#29324d"/><text x="860" y="306" fill="#fff" font-size="13" font-weight="700">Soft lounge collection</text><text x="860" y="329" fill="#929bb0" font-size="11">8 pieces • from ₦65k</text>
+ <text x="646" y="430" fill="#8f78ff" font-size="11" font-weight="700">POPULAR THIS WEEK</text><text x="646" y="462" fill="#fff" font-size="25" font-weight="700">The Celebration Edit</text><text x="646" y="489" fill="#8f98ad" font-size="12">Curated pieces for intimate events.</text>
+ <rect x="646" y="507" width="125" height="10" rx="5" fill="#5ee7df" opacity=".7"/>
+</g></svg>
